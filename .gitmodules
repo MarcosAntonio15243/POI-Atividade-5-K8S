@@ -1,0 +1,3 @@
+[submodule "apps"]
+	path = apps
+	url = https://github.com/Samurai-Turtles/Atividade-2-POI.git
